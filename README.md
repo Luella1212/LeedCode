@@ -1,2 +1,2 @@
-# LeedCode
-保存leedcode代码
+# LeetCode
+保存leetcode代码
